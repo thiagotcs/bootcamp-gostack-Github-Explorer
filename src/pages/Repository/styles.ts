@@ -44,7 +44,7 @@ export const RepositoryInfo = styled.section`
             }
 
             p {
-                font-size: 36px;
+                font-size: 18px;
                 color: #737380;
                 margin-top: 4px;
 
